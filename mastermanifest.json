@@ -3,18 +3,18 @@
       "version": 1.0,
       "title": "Paquete de Mods Base",
       "changelog": "Paquete de mods base del servidor. Contiene algunos mods ensenciales y de estructura base, no deberia de actualizarse seguido.",
-      "zip_url": "https://drive.google.com/file/d/1J6LI-nEdaaNflzgZsHixkMbZNhVrOm2H/view?usp=sharing" 
+      "zip_url": "https://github.com/LJE314/Muchachis-Server-Files/releases/download/v1.0.0/BaseMods2026.zip" 
     },
     "newmodpack": {
       "version": 1.0,
       "title": "Apartado para mods nuevos",
       "changelog": "Se agregaran mods nuevos de dungeons y puertas, vista previa abajo",
-      "zip_url": "https://drive.google.com/file/d/111xJk0dot7yLA45Lo8EVseIPj95K9I_H/view?usp=sharing"
+      "zip_url": "https://github.com/LJE314/Muchachis-Server-Files/releases/download/v1.0.0/newmodpack2026.zip"
     },
     "basefiles": {
       "version": 1.0,
       "title": "Carpeta Base de Minecraft",
       "changelog": "Esta es una version de minecraft java 1.20.4, modificada en configuraciones y mods. Siempre puedes retocarla a tu gusto.",
-      "zip_url": "https://drive.google.com/file/d/19rSN2Fv947uCsCVsgsM_XwMzR3VQptGH/view?usp=sharing"
+      "zip_url": "https://github.com/LJE314/Muchachis-Server-Files/releases/download/v1.0.0/BaseFiles2026.zip"
     }
   }
