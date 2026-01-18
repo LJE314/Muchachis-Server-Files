@@ -9,7 +9,7 @@
       "version": 1.0,
       "title": "Apartado para mods nuevos",
       "changelog": "Se agregaran mods nuevos de dungeons y puertas, vista previa abajo",
-      "zip_url": "https://github.com/LJE314/Muchachis-Server-Files/releases/download/v1.0.0/newmodpack2026.zip"
+      "zip_url": "https://github.com/LJE314/Muchachis-Server-Files/releases/download/v1.0.1/newmodpack2026.zip"
     },
     "basefiles": {
       "version": 1.0,
@@ -18,3 +18,4 @@
       "zip_url": "https://github.com/LJE314/Muchachis-Server-Files/releases/download/v1.0.0/BaseFiles2026.zip"
     }
   }
+
